@@ -1,0 +1,4 @@
+将该代码部署到云服务器后，进入speedtest-cli文件夹，输入speedtest-cli，可得到根据服务器列表获得的最优服务器，并返回上传下载速度，以及ping值。
+
+ps:
+    如只需简单快速获得“上传速度，下载速度，ping值”，输入 speedtest-cli --simple
